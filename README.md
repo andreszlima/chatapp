@@ -1,24 +1,15 @@
-# README
+# Chatapp Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Project description & features
 
-Things you may want to cover:
+  - Real time application with Action Cable on Rails
+  - Users can interact with each other without reloading the page or pooling databases, everything is updated as soon as it is changed
+  - Persistent storage of messages inside PostgreSQL database
 
-* Ruby version
+## What I learned with this project
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Rails database with PostgreSQL 
+ - Action Cable (Rails 5+) for real time updates
+ 
+ ## License
+ GNU v3
